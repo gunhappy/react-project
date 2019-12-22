@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        ".*rc": "jsonc",
+        ".npmrc": "plain"
+    },
+    "editor.tabSize": 2,
+    "editor.detectIndentation": true,
+    "editor.insertSpaces": false,
+    "path-intellisense.mappings": {
+        "modules": "${workspaceRoot}/src/modules",
+        "common": "${workspaceRoot}/src/common",
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
