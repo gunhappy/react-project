@@ -1,7 +1,6 @@
 {
     "*.js": [
         "prettier --write",
-        "tslint --fix",
         "git add"
     ]
 }
